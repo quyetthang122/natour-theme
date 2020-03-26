@@ -1,2 +1,4 @@
 # ignore vscode generator
 .vscode/*
+# ignore npm
+node_modules/*
